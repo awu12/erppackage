@@ -19,13 +19,18 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*5)+ 1);
+var x=Math.floor((Math.random()*10)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/01/five-common-gaps-to-watch-for-in-your.html"}
-if(x=="2"){xxx="/2018/01/tips-to-choose-best-erp-system.html"}
-if(x=="3"){xxx="/2018/01/five-erp-software-trends-to-watch-in.html"}
-if(x=="4"){xxx="/2018/01/the-biggest-changes-to-erp-in-last-5.html"}
-if(x=="5"){xxx="/2018/01/7-ways-your-legacy-erp-system-is.html"}a_to_ve[i].href="http://www.erp-software-package.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/09/what-to-do-to-get-best-erp-system-for.html"}
+if(x=="2"){xxx="/2019/09/the-best-erp-software-for-small-business.html"}
+if(x=="3"){xxx="/2019/09/how-to-choose-best-erp-for-small.html"}
+if(x=="4"){xxx="/2019/09/the-benefits-of-erp-for-small-business.html"}
+if(x=="5"){xxx="/2019/03/erp-software-for-business.html"}
+if(x=="6"){xxx="/2019/01/is-there-any-cheap-erp-software-for.html"}
+if(x=="7"){xxx="/2019/01/what-does-erp-software-stand-for-find.html"}
+if(x=="8"){xxx="/2019/01/what-is-meaning-of-erp-system.html"}
+if(x=="9"){xxx="/2019/01/why-it-is-must-for-manufacturers-to.html"}
+if(x=="10"){xxx="/2019/01/which-is-right-erp-system-for.html"}a_to_ve[i].href="https://www.erp-software-package.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
